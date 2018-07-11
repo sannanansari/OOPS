@@ -31,12 +31,12 @@ void selection(arr[],n)
 ```
 ## Explanation:-  
 Selection Sort can be explain on 2 steps:-  
-1.Find minimum element in unsorted part:-   
+#### Find minimum element in unsorted part:-   
 + Fix min(minimum) as current element.  
 + Then compare min with with unsorted elements.  
 	- if any element at that position is greater than current then do nothing.  
 	- if any element at that position is smaller than current then fix it as min.  
-2.Swap current element arr[i] with arr[min]:-  
+#### Swap current element arr[i] with arr[min]:-  
 + It will swap if min is found or Not. 
 
 # [Selection_Sort Code Click here](https://github.com/sannanansari/OOPS/blob/master/Sort/Selecton_Sort/Selecton_Sort.c)
