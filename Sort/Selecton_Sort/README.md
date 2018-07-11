@@ -3,7 +3,7 @@
 ## Introduction:   
 The Selection Sort algorithm Sorts an array buy repeatedly finding the minimum element(for ascending Order) from the unsorted part and putting it at beginning.  
 It is Divided into Two subarray:-  
-1. The arrauy Which is already Sorted.  
+1. The array Which is already Sorted.  
 2. Which to be Sort(unsorted).  
 
 ## Algorithm:  
@@ -32,11 +32,11 @@ void selection(arr[],n)
 ## Explanation:-  
 Selection Sort can be explain on 2 steps:-  
 1.Find minimum element in unsorted part:-   
-		A.Fix min(minimum) as current element.  
-		B.Then compare min with with unsorted elements.  
-				- if any element at that position is greater than current then do nothing.  
-				- if any element at that position is smaller than current then fix it as min.   
++ Fix min(minimum) as current element.  
++ Then compare min with with unsorted elements.  
+	- if any element at that position is greater than current then do nothing.  
+	- if any element at that position is smaller than current then fix it as min.   
 2.Swap current element arr[i] with arr[min]:-  
-		A.It will swap if min is found or Not.  
++ It will swap if min is found or Not.  
 
  
