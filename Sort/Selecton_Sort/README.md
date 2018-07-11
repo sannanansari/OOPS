@@ -13,7 +13,7 @@ Step 2 − Search the minimum element in the array
 Step 3 − Swap with value at location MIN  
 Step 4 − Increment MIN to point to next element  
 Step 5 − Repeat until array is sorted  
-`code()`
+
 ```C
 Algorthim:-
 void selection(arr[],n)  
@@ -39,7 +39,7 @@ Selection Sort can be explain on 2 steps:-
 2.Swap current element arr[i] with arr[min]:-  
 + It will swap if min is found or Not. 
 
-# [Selection Sort Code Click here](https://github.com/sannanansari/OOPS/blob/master/Sort/Selecton_Sort/Selecton_Sort.c)
+# [Selection_Sort Code Click here](https://github.com/sannanansari/OOPS/blob/master/Sort/Selecton_Sort/Selecton_Sort.c)
 
 
 
